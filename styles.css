@@ -35,6 +35,17 @@ body {
   color: #404bbf;
 }
 
+.contact {
+  font-style: normal;
+}
+
+.contact-item {
+  font-size: 16px;
+  line-height: 1.5;
+  letter-spacing: 0.02em;
+  color: #434455;
+}
+
 .commun {
   font-style: normal;
   font-size: 16px;
