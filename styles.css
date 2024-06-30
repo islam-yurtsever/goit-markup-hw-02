@@ -35,8 +35,10 @@ body {
   color: #404bbf;
 }
 
-.commun {
+.contact {
   font-style: normal;
+}
+.contact-info {
   font-size: 16px;
   font-weight: 500;
   line-height: 1.5;
@@ -44,11 +46,11 @@ body {
   color: #434455;
 }
 
-.commun:hover {
+.contact-info:hover {
   color: #404bbf;
 }
 
-.commun:focus {
+.contact-info:focus {
   color: #404bbf;
 }
 
