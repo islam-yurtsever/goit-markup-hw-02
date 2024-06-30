@@ -35,11 +35,8 @@ body {
   color: #404bbf;
 }
 
-.commun-text {
-  font-style: normal;
-}
-
 .commun {
+  font-style: normal;
   font-size: 16px;
   font-weight: 500;
   line-height: 1.5;
