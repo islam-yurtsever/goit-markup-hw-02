@@ -4,7 +4,7 @@ body {
   background-color: #ffffff;
 }
 
-.logo-web-head {
+.logo {
   font-family: "Raleway", sans-serif;
   font-weight: 700;
   font-size: 18px;
@@ -14,7 +14,7 @@ body {
   color: #4d5ae5;
 }
 
-.logo-studio-head {
+.logo-studio {
   font-family: "Raleway", sans-serif;
   color: #2e2f42;
 }
@@ -46,20 +46,11 @@ body {
   color: #434455;
 }
 
-.commun {
-  font-style: normal;
-  font-size: 16px;
-  font-weight: 500;
-  line-height: 1.5;
-  letter-spacing: 0.02em;
-  color: #434455;
-}
-
-.commun:hover {
+.contact-item:hover {
   color: #404bbf;
 }
 
-.commun:focus {
+.contact-item:focus {
   color: #404bbf;
 }
 
