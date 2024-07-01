@@ -52,11 +52,11 @@ body {
   color: #404bbf;
 }
 
-.section-effective {
+.section-solution {
   background-color: #2e2f42;
 }
 
-.section-effective-text {
+.main-title {
   font-size: 56px;
   line-height: 1.07;
   text-align: center;
@@ -64,7 +64,7 @@ body {
   color: #ffffff;
 }
 
-.button-services {
+.order-button {
   cursor: pointer;
   background-color: #4d5ae5;
   font-family: "Roboto", sans-serif;
@@ -74,10 +74,10 @@ body {
   letter-spacing: 0.04em;
   color: #ffffff;
 }
-.button-services:hover {
+.order-button:hover {
   background-color: #404bbf;
 }
-.button-services:focus {
+.order-button:focus {
   background-color: #404bbf;
 }
 
